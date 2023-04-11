@@ -86109,7 +86109,7 @@ ad(){return new A.V5(B.j)}}
 A.V5.prototype={
 aD(){var s,r=this
 r.aV()
-s=new A.Em("assets/videos/video_2.mp4",B.A6,$.bU())
+s=new A.Em("videos/video_2.mp4",B.A6,$.bU())
 s.vm(B.A6,t.CO)
 s.X(0,new A.as_(r))
 s.uX(!0)
